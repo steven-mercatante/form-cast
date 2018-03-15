@@ -1,5 +1,5 @@
 {
-  "name": "form-cast",
+  "name": "react-form-cast",
   "version": "0.1.0",
   "description": "",
   "main": "index.js",
@@ -8,17 +8,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/steven-mercatante/form-cast.git"
+    "url": "git+https://github.com/steven-mercatante/react-form-cast.git"
   },
-  "keywords": [
-    "form",
-    "forms",
-    "validation"
-  ],
-  "author": "Steven Mercatante <steven.mercatante@gmail.com> (https://stevenmercatante.com)",
+  "keywords": ["react", "form", "forms", "validation"],
+  "author":
+    "Steven Mercatante <steven.mercatante@gmail.com> (https://stevenmercatante.com)",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/steven-mercatante/form-cast/issues"
+    "url": "https://github.com/steven-mercatante/react-form-cast/issues"
   },
-  "homepage": "https://github.com/steven-mercatante/form-cast#readme"
+  "homepage": "https://github.com/steven-mercatante/react-form-cast#readme"
 }
