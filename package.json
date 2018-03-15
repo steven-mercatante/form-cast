@@ -1,0 +1,24 @@
+{
+  "name": "form-cast",
+  "version": "0.1.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/steven-mercatante/form-cast.git"
+  },
+  "keywords": [
+    "form",
+    "forms",
+    "validation"
+  ],
+  "author": "Steven Mercatante <steven.mercatante@gmail.com> (https://stevenmercatante.com)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/steven-mercatante/form-cast/issues"
+  },
+  "homepage": "https://github.com/steven-mercatante/form-cast#readme"
+}
